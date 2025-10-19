@@ -16,7 +16,7 @@ fn main() {
 
         let guess = guess.trim();
 
-        if guess.eq_ignore_ascii_case("q") {
+        if guess == "q" || guess == "Q" {
             println!("Thanks for playing!");
             break;
         }
