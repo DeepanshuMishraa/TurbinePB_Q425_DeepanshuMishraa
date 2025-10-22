@@ -7,7 +7,7 @@ This repository contains all the solutions for the turbin3 prebuilder Q4 2025 ta
 1. [Hello World Program](./hello_world) - Basic introduction to Rust programming
 2. [Counter Program](./counter) - A simple counter implementation in Rust
 3. [RNG Game](./RNG_GAME) - Random Number Generator game
-4. [Rustlings](./rustlings) - Solutions to Rustlings exercises
+4. [Rustlings](https://github.com/DeepanshuMishraa/rustlings) - Solutions to Rustlings exercises
 
 ## Overview
 
