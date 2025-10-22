@@ -1,3 +1,4 @@
 [submodule "rustlings"]
     path = rustlings
     url  = https://github.com/DeepanshuMishraa/rustlings
+    branch = master
