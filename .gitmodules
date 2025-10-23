@@ -6,3 +6,4 @@
 [submodule "grady-sol"]
 	path = grady-sol
 	url = https://github.com/DeepanshuMishraa/grady.sol
+	branch=master
