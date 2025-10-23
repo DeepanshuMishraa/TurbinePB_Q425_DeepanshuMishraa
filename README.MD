@@ -4,10 +4,12 @@ This repository contains all the solutions for the turbin3 prebuilder Q4 2025 ta
 
 ## Project Structure
 
-1. [Hello World Program](./hello_world) - Basic introduction to Rust programming
-2. [Counter Program](./counter) - A simple counter implementation in Rust
-3. [RNG Game](./RNG_GAME) - Random Number Generator game
-4. [Rustlings](https://github.com/DeepanshuMishraa/rustlings) - Solutions to Rustlings exercises
+1. [Hello World Program](./RNG_GAME/hello_world) - Basic introduction to Rust programming
+2. [Rust Counter Program](./RNG_GAME/counter) - A simple counter implementation in Rust
+3. [Guessing Game](./RNG_GAME/guessing_game) - Random Number Generator game
+4. [Hello Solana Anchor Program](./hello_solana) - A hello solana program in anchor
+5. [Anchor Counter Program](./solana-counter) - A counter program in anchor
+6. [Rustlings](https://github.com/DeepanshuMishraa/rustlings) - Solutions to Rustlings exercises
 
 ## Overview
 
