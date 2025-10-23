@@ -1,7 +1,5 @@
 # Turbine Prebuilder Q4 2025 Tasks
 
-This repository contains all the solutions for the turbin3 prebuilder Q4 2025 tasks.
-
 ## Project Structure
 
 1. [Hello World Program](./RNG_GAME/hello_world) - Basic introduction to Rust programming
