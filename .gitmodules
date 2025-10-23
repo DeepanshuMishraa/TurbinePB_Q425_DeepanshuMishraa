@@ -3,7 +3,3 @@
     url  = https://github.com/DeepanshuMishraa/rustlings
 	branch = master
 
-[submodule "favourites-sol"]
-	path = favourites-sol
-	url = https://github.com/DeepanshuMishraa/anchor-favourites
-    branch=master
