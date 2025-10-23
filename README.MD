@@ -9,7 +9,7 @@ This repository contains all the solutions for the turbin3 prebuilder Q4 2025 ta
 3. [Guessing Game](./RNG_GAME/guessing_game) - Random Number Generator game
 4. [Hello Solana Anchor Program](./hello_solana) - A hello solana program in anchor
 5. [Anchor Counter Program](./solana-counter) - A counter program in anchor
-6. [Grades Program](./grades) - A grades tracker program in anchor
+6. [Grades Program](./grady-sol) - A grades tracker program in anchor
 7. [Rustlings](https://github.com/DeepanshuMishraa/rustlings) - Solutions to Rustlings exercises
 
 ## Overview

@@ -3,3 +3,6 @@
     url  = https://github.com/DeepanshuMishraa/rustlings
 	branch = master
 
+[submodule "grady-sol"]
+	path = grady-sol
+	url = https://github.com/DeepanshuMishraa/grady.sol
