@@ -35,6 +35,7 @@ pub mod solana_counter {
 
     pub fn decrement(ctx: Context<Decrement>, value: u64) -> Result<()> {
         let counter = &mut ctx.accounts.counter;
+        require!(counter.count >= value, ErrorCode::Underflow);
         counter.count -= value;
 
         msg!(
@@ -61,12 +62,14 @@ pub struct Initialize<'info> {
 
 #[derive(Accounts)]
 pub struct Increment<'info> {
+    pub signer: Signer<'info>,
     #[account(mut)]
     pub counter: Account<'info, Counter>,
 }
 
 #[derive(Accounts)]
 pub struct Decrement<'info> {
+    pub signer: Signer<'info>,
     #[account(mut)]
     pub counter: Account<'info, Counter>,
 }
@@ -75,4 +78,10 @@ pub struct Decrement<'info> {
 #[derive(InitSpace)]
 pub struct Counter {
     pub count: u64,
+}
+
+#[error_code]
+pub enum ErrorCode {
+    #[msg("The value of counter can't be negative")]
+    Underflow,
 }
