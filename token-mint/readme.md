@@ -1,13 +1,19 @@
-# Elixr Token (ELX)
+# Deepanshu Token (ELX)
 
-![Elixr Token](https://raw.githubusercontent.com/DeepanshuMishraa/TurbinePB_Q425_DeepanshuMishraa/refs/heads/main/token-mint/token.png)
+![Deepanshu Token](https://5u77md5agm.ufs.sh/f/Kf5yBVp9ZVhsomWIgLS6z0ENp9imIgrk1GDb3WdVFXvRZYq7)
 
 ## Token Information
 
-- **Name:** Elixr
-- **Symbol:** ELX
-- **Token Address:** mntRWngY9FxyP8aPVuQBTyNmXKHnZy5iGbWPjo5USBo
+- **Name:** Deepanshu
+- **Symbol:** DPX
+- **Token Address:** 58rjRjBQMHH4yQ25HiNvKoXX5h4nE4pRGWpToDeZ4tFj
 - **Current Supply:** 1,000
 - **Decimals:** 7
-- **Mint Authority:** GitAcvqePhyUCubxqGPYLHejmBF6grEMzUSSYVd9TBAA
+- **Mint Authority:** 6itAcvqePhyUCubxqGPYLHejmBF6grEMzU5SYVd9TBAA
 
+
+## To Mint token for yourself
+
+ - Update the Metadata with your own information
+ - Upload your token image to a storage bucket and paste its url
+ - run `bun src/index.ts`
