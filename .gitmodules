@@ -7,3 +7,18 @@
 	path = grady-sol
 	url = https://github.com/DeepanshuMishraa/grady.sol
 	branch=master
+
+[submodule "anchor-vault"]
+    path= anchor-vault
+    url = https://github.com/DeepanshuMishraa/vault-anchor
+    branch = master
+
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/DeepanshuMishraa/anchor-escrow
+	branch = master
+
+[submodule "token-mint"]
+    path = "token-mint"
+    url = https://github.com/DeepanshuMishraa/mint-spl-token
+    branch = main
