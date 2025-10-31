@@ -46,20 +46,12 @@ async function main() {
 
   console.log(`Initialized UMI instance`);
 
-  const metadata = {
-    name: "DEEPANSHU",
-    symbol: "DPX",
-    description: "A Token for Deepanshu Mishra.",
-    image:
-      "https://5u77md5agm.ufs.sh/f/Kf5yBVp9ZVhs9AxIm3cvaZSK5j4L6QMk8R7pEFDqmtweHA1o",
-  };
-
   const mintSigner = generateSigner(umi);
 
   const createMintTx = createFungible(umi, {
     mint: mintSigner,
-    name: "DEEPANSHU",
-    symbol: "DPX",
+    name: "DENTAL",
+    symbol: "DNT",
     uri: "https://raw.githubusercontent.com/DeepanshuMishraa/mint-spl-token/refs/heads/main/metadata1.json?token=GHSAT0AAAAAADN3AAYNPMVUPHPG2ONUK6DY2IA3Q2A",
     sellerFeeBasisPoints: percentAmount(0),
     decimals: 9,
