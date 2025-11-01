@@ -8,7 +8,7 @@
 	url = https://github.com/DeepanshuMishraa/grady.sol
 	branch=master
 
-[submodule "anchor-vault"]
+[submodule "vault-anchor"]
     path= anchor-vault
     url = https://github.com/DeepanshuMishraa/vault-anchor
     branch = master
@@ -18,7 +18,7 @@
 	url = https://github.com/DeepanshuMishraa/anchor-escrow
 	branch = master
 
-[submodule "token-mint"]
+[submodule "mint-spl-token"]
     path = "token-mint"
     url = https://github.com/DeepanshuMishraa/mint-spl-token
     branch = main
