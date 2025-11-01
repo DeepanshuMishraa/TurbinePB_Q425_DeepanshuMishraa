@@ -7,14 +7,14 @@
 3. [Guessing Game](./RNG_GAME/guessing_game) - Random Number Generator game
 4. [Hello Solana Anchor Program](./hello_solana) - A hello solana program in anchor
 5. [Anchor Counter Program](./solana-counter) - A counter program in anchor
-6. [Grades Program](./grady-sol) - A grades tracker program in anchor
+6. [Grades Program](https://github.com/DeepanshuMishraa/grady.sol) - A grades tracker program in anchor
 7. [Rustlings](https://github.com/DeepanshuMishraa/rustlings) - Solutions to Rustlings exercises
 
 ## Task 2
 
-1. [Mint SPL Token](./token-mint) - Minting my own spl token with metaplex.
-2. [Anchor Vault](./anchor-vault) - Anchor vault program  which locks my own minted token
-3. [Anchor Escrow](./anchor-escrow) - Anchor escrow program which is used to swap between two of my minted tokens
+1. [Mint SPL Token](https://github.com/DeepanshuMishraa/mint-spl-token) - Minting my own spl token with metaplex.
+2. [Anchor Vault](https://github.com/DeepanshuMishraa/vault-anchor) - Anchor vault program  which locks my own minted token
+3. [Anchor Escrow](https://github.com/DeepanshuMishraa/anchor-escrow) - Anchor escrow program which is used to swap between two of my minted tokens
 
 ## Overview
 
