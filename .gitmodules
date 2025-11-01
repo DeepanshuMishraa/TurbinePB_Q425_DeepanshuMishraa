@@ -22,3 +22,9 @@
     path = "token-mint"
     url = https://github.com/DeepanshuMishraa/mint-spl-token
     branch = main
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = git@github.com:DeepanshuMishraa/vault-anchor.git
+[submodule "token-mint"]
+	path = token-mint
+	url = git@github.com:DeepanshuMishraa/mint-spl-token.git
