@@ -29,3 +29,6 @@ Now bob bought bunch of DNT Tokens and is ready to sell them and he has seen ali
 7. Swap is successful and both Alice and Bob are happy with the outcome. They both can now use their tokens for their respective purposes.
 ```
 
+## Architecture Diagram
+
+![Architecture Diagram](./arch.png)
