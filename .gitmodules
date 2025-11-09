@@ -28,3 +28,6 @@
 [submodule "token-mint"]
 	path = token-mint
 	url = git@github.com:DeepanshuMishraa/mint-spl-token.git
+[submodule "nft-mint"]
+	path = nft-mint
+	url = git@github.com:DeepanshuMishraa/nft-mint.git
