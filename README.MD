@@ -16,6 +16,9 @@
 2. [Anchor Vault](https://github.com/DeepanshuMishraa/vault-anchor) - Anchor vault program  which locks my own minted token
 3. [Anchor Escrow](https://github.com/DeepanshuMishraa/anchor-escrow) - Anchor escrow program which is used to swap between two of my minted tokens
 
+## Task 3
+1. [NFT Mint](https://github.com/DeepanshuMishraa/nft-mint) - Minting my own nft with metaplex
+
 ## Overview
 
 This repository contains my solutions and implementations for the Turbine Prebuilder Quarter 4 2025 tasks. Each folder contains specific projects and exercises.
